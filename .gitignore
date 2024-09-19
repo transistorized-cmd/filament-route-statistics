@@ -1,0 +1,99 @@
+# ignore log files and databases
+*.log
+*.sql
+*.sqlite
+# ignore compiled files
+*.class
+*.com
+*.dll
+*.exe
+*.o
+*.so
+# ignore packaged files
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+# ignore OS generated files
+._*
+.DS_Store
+.DS_Store?
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+# ignore Editor files
+_ide_helper.php
+*.komodoproject
+*.sublime-project
+*.sublime-workspace
+/.idea
+/.vscode
+# Eclipse project files
+.buildpath
+.project
+.settings/
+# Ignore cache
+.cache/
+# Ignore user created files :)
+*.bak
+*.orig
+# Ignore system files
+auth.json
+_old/
+_vti_bin/
+_vti_cnf/
+_vti_inf.html
+_vti_log/
+_vti_pvt/
+_vti_txt/
+.bash_history
+.bash_history
+.bash_logout
+.bashrc
+.htpasswd
+.htpasswds
+.htpasswds/
+.modgit/
+.modgit/
+.modman/
+.phpunit.result.cache
+.profile
+.ssh/
+.viminfo
+/.htaccess
+/.vagrant
+error_log
+Homestead.json
+Homestead.yaml
+LICENSE_AFL.txt
+LICENSE_EE*
+LICENSE.html
+LICENSE.txt
+nohup.out
+php.ini
+php.ini.sample
+pkginfo
+RELEASE_NOTES.txt
+tmp/
+#Laravel Specific files
+.env
+.env.backup
+.env.production
+/.fleet
+/.phpunit.cache
+/public/.htaccess
+/node_modules
+/public/build
+/public/hot
+/public/storage
+/storage/*.key
+/storage
+/vendor
+storage/*.key
+.wireguard/
+phpstan.neon
