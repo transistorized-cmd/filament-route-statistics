@@ -1,7 +1,7 @@
 {
     "name": "transistorized-cmd/filament-route-statistics",
     "description": "This is my filament package for bilfeldt/laravel-route-statistics",
-    "version": "0.1.0",
+    "version": "1.0.0",
     "keywords": [
         "transistorized-cmd",
         "laravel",
