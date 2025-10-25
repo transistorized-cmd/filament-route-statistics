@@ -10,8 +10,9 @@ This package provides a Filament interface that displays the route statistics ge
 
 ## Requirements
 
--   Laravel v11
+-   Laravel v10, v11, or v12
 -   Filament v3
+-   PHP 8.2 or 8.3
 -   bilfeldt/laravel-route-statistics v3
 
 ## Languages Supported
