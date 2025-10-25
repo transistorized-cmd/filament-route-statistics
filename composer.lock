@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "b4a2a13977ced2e221739f7ca53335e0",
+    "content-hash": "6efd17e2bd0ba417a437ebe6d8902785",
     "packages": [
         {
             "name": "bilfeldt/laravel-correlation-id",
@@ -147,29 +147,27 @@
         },
         {
             "name": "bilfeldt/laravel-route-statistics",
-            "version": "v3.4.0",
+            "version": "v4.2.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/bilfeldt/laravel-route-statistics.git",
-                "reference": "27e125272259effcc7387faf3be2f4c256e94e67"
+                "reference": "9b314244248f43615049f102ba563ed5b7858db0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/bilfeldt/laravel-route-statistics/zipball/27e125272259effcc7387faf3be2f4c256e94e67",
-                "reference": "27e125272259effcc7387faf3be2f4c256e94e67",
+                "url": "https://api.github.com/repos/bilfeldt/laravel-route-statistics/zipball/9b314244248f43615049f102ba563ed5b7858db0",
+                "reference": "9b314244248f43615049f102ba563ed5b7858db0",
                 "shasum": ""
             },
             "require": {
                 "bilfeldt/laravel-request-logger": "^3.0",
-                "illuminate/contracts": "^10.0 || ^11.0",
-                "laravel/framework": "^10.0 || ^11.0",
-                "php": "~8.1.0 || ~8.2.0 || ~8.3.0"
+                "illuminate/contracts": "^10.0 || ^11.0 || ^12.0",
+                "php": "~8.2.0 || ~8.3.0 || ~8.4.0"
             },
             "require-dev": {
                 "nunomaduro/collision": "^7.2 || ^8.0",
-                "orchestra/testbench": "^8.0 || ^9.0",
-                "phpunit/phpunit": "^10.0",
-                "spatie/laravel-ray": "^1.32"
+                "orchestra/testbench": "^8.0 || ^9.0 || ^10.0",
+                "phpunit/phpunit": "^10.0 || ^11.5.3"
             },
             "type": "library",
             "extra": {
@@ -214,7 +212,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2024-05-10T09:13:41+00:00"
+            "time": "2025-04-12T20:18:06+00:00"
         },
         {
             "name": "brick/math",
